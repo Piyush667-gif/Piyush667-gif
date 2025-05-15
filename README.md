@@ -1,12 +1,24 @@
-- 👋 Hi, I’m Piyush
-- 👀 I’m interested in Front End Development 
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on Tech company 
-- 📫 How to reach me @pandeypiyush538@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💫 About Me:
+I'm Piyush Pandey a passionate front-end developer with a keen interest in building dynamic and user-friendly web applications. Currently, I'm working on various projects using HTML, CSS, and JavaScript<br>I'm eager to collaborate with a company for an internship or part-time job, preferably for 2-3 months. This opportunity will enable me to gain hands-on experience, learn from industry professionals, and contribute to real-world projects.<br>My Skills :-<br>- Front-end development using HTML, CSS, and JavaScript<br>- Familiarity with React JS (currently learning)<br>- Passionate about building responsive, interactive, and accessible web application<br>Let's Discuss :<br>Feel free to ask me anything about my work, projects, or interests. I'm always excited to discuss front-end development, React JS, or any other related topics.
 
-<!---
-Piyush667-gif/Piyush667-gif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/piyush-pandey-563b311b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandeypiyush538@gmail.com) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Piyush Pandey&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Piyush Pandey&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush Pandey&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Piyush Pandey&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Piyush Pandey&icon=2&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
